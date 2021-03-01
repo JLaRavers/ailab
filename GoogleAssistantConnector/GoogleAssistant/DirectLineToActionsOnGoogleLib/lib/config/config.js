@@ -31,7 +31,4 @@ process.env.POLLING_INTERVAL = process.env.POLLING_INTERVAL || 500;
 //=========================================================
 process.env.CONVERSATION_TIMEOUT = process.env.CONVERSATION_TIMEOUT || 10 * 60;
 
-process.env.DIRECT_LINE_SECRET = 'cgvElKtTMhI.gqJ_QEZLJahQdJpXxCtme9MGPrmdgB6iQqLYWGHtQaM';
-
-
 process.env.APPINSIGHTS_INSTRUMENTATIONKEY
